@@ -1,17 +1,7 @@
 Hi there, I'm Taher Batterywala 👋
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/taher-batterywala-383821291/">
-<img align="left" alt="Taher's LinkedIn" width="22px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/npm/simple-icons%40v3/icons/linkedin.svg" />
-</a>
-<a href="mailto:taherbatterywala1105@gmail.com">
-<img align="left" alt="Taher's Email" width="22px" src="https://www.google.com/search?q=https://cdn.jsdelivr.net/npm/simple-icons%40v3/icons/gmail.svg" />
-</a>
-
-<br />
-<br />
-
 I'm a passionate Machine Learning and Deep Learning enthusiast with a strong interest in building intelligent AI applications and end-to-end ML solutions. I enjoy diving into data, uncovering patterns, and creating predictive models that solve real-world problems.
 
-🚀 About Me
+💫 About Me
 🧠 I'm deeply passionate about Artificial Intelligence, Predictive Modeling, and Data Science.
 
 💻 I love building and deploying end-to-end Machine Learning solutions.
@@ -20,7 +10,18 @@ I'm a passionate Machine Learning and Deep Learning enthusiast with a strong int
 
 📫 How to reach me: taherbatterywala1105@gmail.com
 
-🛠️ Languages & Tools
+🌐 Connect with Me
+<p align="left">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/taher-batterywala-383821291/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="mailto:taherbatterywala1105@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</p>
+
+💻 Tech Stack
+Languages
 <p align="left">
 <a href="https://www.python.org" target="_blank">
 <img alt="Python" src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
@@ -36,7 +37,7 @@ I'm a passionate Machine Learning and Deep Learning enthusiast with a strong int
 </a>
 </p>
 
-📚 Frameworks & Libraries
+Frameworks & Libraries
 <p align="left">
 <a href="https://numpy.org/" target="_blank">
 <img alt="NumPy" src="https://www.google.com/search?q=https://img.shields.io/badge/Numpy-013243%3Fstyle%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite" />
@@ -54,23 +55,11 @@ I'm a passionate Machine Learning and Deep Learning enthusiast with a strong int
 
 📊 My GitHub Stats
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTaherBatterywala%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Taher's GitHub Stats" />
-</p>
-<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DTaherBatterywala%26show_icons%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Taher's GitHub Stats" />
+<br/>
 <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DTaherBatterywala%26theme%3Dradical%26hide_border%3Dtrue" alt="Taher's GitHub Streak" />
-</p>
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTaherBatterywala%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" />
-</p>
-
-🤝 Connect with Me
-<p align="center">
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/taher-batterywala-383821291/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
-</a>
-<a href="mailto:taherbatterywala1105@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+<br/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DTaherBatterywala%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Top Languages" />
 </p>
 
 <p align="center">
