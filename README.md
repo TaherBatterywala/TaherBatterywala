@@ -72,10 +72,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TaherBatterywala&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 
-<div>
-  <img src="https://raw.githubusercontent.com/TaherBatterywala/TaherBatterywala/output/snake.svg" alt="Snake animation" />
-  
-</div>
+
+<p align="center">
+ <img width="1000" src="asset/github-snake.svg" alt="snake"/>
+</p>
 
 ---
 
