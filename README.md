@@ -2,12 +2,10 @@
   <h1>Hi there, I'm Taher 👋</h1>
 </div>
 
-I'm a passionate Machine Learning and Deep Learning enthusiast with a strong interest in building intelligent AI applications and end-to-end ML solutions. I enjoy diving into data, uncovering patterns, and creating predictive models that solve real-world problems.
-
-🧠 I'm deeply passionate about **Artificial Intelligence, Predictive Modeling, and Data Science.**
-💻 I love building and deploying **end-to-end Machine Learning solutions.**
-🌱 I’m always learning and exploring new advancements in the field of **AI and Deep Learning.**
-📫 How to reach me: **taherbatterywala1105@gmail.com**
+🧠 I'm deeply passionate about **Artificial Intelligence, Predictive Modeling, and Data Science.**<br>
+💻 I love building and deploying **end-to-end Machine Learning solutions.**<br>
+🌱 I’m always learning and exploring new advancements in the field of **AI and Deep Learning.**<br>
+📫 How to reach me: **taherbatterywala1105@gmail.com**<br>
 
 ---
 
@@ -74,7 +72,7 @@ I'm a passionate Machine Learning and Deep Learning enthusiast with a strong int
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TaherBatterywala&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <p align="center">
-  <img width="90%" src="https://raw.githubusercontent.com/TaherBatterywala/TaherBatterywala/output/github-contribution-grid-snake.svg" alt="snake"/>
+ <img width="1000" src="asset/github-snake.svg" alt="snake"/>
 </p>
 
 ---
