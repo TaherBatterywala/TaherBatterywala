@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>Hi there, I'm Taher 👋</h1>
-</div>
+
 
 🧠 I'm deeply passionate about **Artificial Intelligence, Predictive Modeling, and Data Science.**<br>
 💻 I love building and deploying **end-to-end Machine Learning solutions.**<br>
